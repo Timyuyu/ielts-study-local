@@ -4,7 +4,7 @@
 
 ## 下载与使用（Windows）
 
-1. 前往 [下载页面](https://github.com/Timyuyu/ielts-study-local/releases/latest)，下载 `ielts-study-local-v1.0.0.zip` 并完整解压。
+1. 前往 [下载页面](https://github.com/Timyuyu/ielts-study-local/releases/latest)，点击 **Source code (zip)** 并完整解压；也可 [直接下载 v1.0.0](https://github.com/Timyuyu/ielts-study-local/archive/refs/tags/v1.0.0.zip)。
 2. 安装 [Node.js](https://nodejs.org/) 22.13 或更高版本（建议使用 LTS）。安装后若仍提示找不到 Node.js，请重新打开终端或重启电脑。
 3. 首次使用时，双击 **安装依赖.bat**，等待安装完成。这一步需要联网。
 4. 双击 **启动雅思学习APP.vbs**，等待浏览器自动打开；如果启动失败，用 **启动雅思学习APP.bat** 查看错误。
