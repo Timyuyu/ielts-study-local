@@ -61,6 +61,7 @@ function splitSentences(text: string) {
 }
 
 export function Part2AudioPlayer() {
+  const bundledOffline = typeof window !== "undefined" && "AndroidSpeech" in window;
   const [initialPlayerState] = useState(readPlayerState);
   const audioRef = useRef<HTMLAudioElement>(null);
   const pendingPlayRef = useRef(false);
@@ -225,9 +226,9 @@ export function Part2AudioPlayer() {
   return (
     <div className="page part2-audio-page">
       <header className="audio-page-header">
-        <div><span className="eyebrow coral">PART 2 · MP3 MODEL ANSWERS</span><h1>把 {tracks.length} 篇范文，变成你的背景输入。</h1><p>看英文、对照中文、跟着美式男声逐句听。电脑开着时，让高频表达自然进入耳朵。</p></div>
+        <div><span className="eyebrow coral">PART 2 · MP3 MODEL ANSWERS</span><h1>把 {tracks.length} 篇范文，变成你的背景输入。</h1><p>{bundledOffline ? "看英文、对照中文、跟着美式男声逐句听。音频已在手机中，断网也能随时学习。" : "看英文、对照中文、跟着美式男声逐句听。电脑开着时，让高频表达自然进入耳朵。"}</p></div>
         <div className="audio-library-stat"><strong>{tracks.length}</strong><span>篇范文</span><small>{totalMinutes ? `约 ${totalMinutes} 分钟` : "完整音频库"}</small></div>
-        <div style={{ display: "flex", flexDirection: "column", gap: 6, alignItems: "center" }}>
+        {bundledOffline ? <div className="audio-offline-ready">✓ 全部音频已内置，断网可学</div> : <div style={{ display: "flex", flexDirection: "column", gap: 6, alignItems: "center" }}>
           <button type="button" disabled={offlineBusy} onClick={() => void cacheAllAudio()} style={{ border: "1px solid rgba(255,255,255,.35)", background: offlineBusy ? "rgba(255,255,255,.12)" : "rgba(255,255,255,.06)", color: "#fff", padding: "8px 14px", borderRadius: 10, cursor: "pointer", fontSize: 13 }}>
             {offlineBusy ? `正在缓存 ${offlineProgress?.done ?? 0}/${offlineProgress?.total ?? 0}…` : "⬇ 下载全部音频（离线可用）"}
           </button>
@@ -236,7 +237,7 @@ export function Part2AudioPlayer() {
               {offlineCount === tracks.length ? "✓ 已全部离线，随时可学" : `已离线 ${offlineCount}/${tracks.length} 篇`}
             </small>
           )}
-        </div>
+        </div>}
       </header>
 
       <div className="audio-player-shell">
@@ -257,7 +258,7 @@ export function Part2AudioPlayer() {
           <section className="audio-now-playing">
             <div className="audio-track-number"><span>TRACK</span><strong>{String(trackIndex + 1).padStart(2, "0")}</strong><small>/ {tracks.length}</small></div>
             <div className="audio-title"><span>{track.id.toUpperCase()} · {track.words} WORDS</span><h2>{track.topic}</h2><p>{track.prompt}</p></div>
-            <a className="audio-download" href={track.src} download={`${track.id}-${track.topic}.mp3`}>↓ 下载本篇 MP3</a>
+            {!bundledOffline && <a className="audio-download" href={track.src} download={`${track.id}-${track.topic}.mp3`}>↓ 下载本篇 MP3</a>}
           </section>
 
           <section className={showChinese ? "audio-transcript-grid" : "audio-transcript-grid english-only"}>

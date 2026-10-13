@@ -6,6 +6,7 @@
     "node": ">=22.13.0"
   },
   "scripts": {
+    "build:android-web": "vite build --config mobile/vite.config.ts",
     "dev": "vinext dev",
     "build": "vinext build",
     "start": "vinext start",

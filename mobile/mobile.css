@@ -1,0 +1,7 @@
+@font-face { font-family: Geist; src: url('/fonts/geist-latin.woff2') format('woff2'); font-weight: 100 900; font-display: swap; }
+@font-face { font-family: 'Geist Mono'; src: url('/fonts/geist-mono-latin.woff2') format('woff2'); font-weight: 100 900; font-display: swap; }
+:root { --font-geist-sans: Geist; --font-geist-mono: 'Geist Mono'; }
+html, body { overscroll-behavior: none; }
+button, a { -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
+.audio-offline-ready { padding: 10px 14px; border: 1px solid rgba(255,255,255,.35); border-radius: 10px; color: #fff; font-size: 13px; }
+.phrase-overview-meta button { display: none; }

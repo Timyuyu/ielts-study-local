@@ -1,0 +1,18 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'com.timyuyu.ielts.offline'
+    compileSdk 35
+    testBuildType 'release'
+    defaultConfig {
+        applicationId 'com.timyuyu.ielts.offline'
+        minSdk 26
+        targetSdk 35
+        versionCode 1
+        versionName '1.0.0'
+        testInstrumentationRunner 'com.timyuyu.ielts.offline.OfflineDeviceCheck'
+    }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+    androidResources { noCompress 'mp3', 'woff2' }
+    buildTypes { release { minifyEnabled false } }
+}
+dependencies { testImplementation 'junit:junit:4.13.2' }

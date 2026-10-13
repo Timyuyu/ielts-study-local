@@ -2,9 +2,15 @@
 
 在自己的电脑和浏览器里练习雅思听力、口语和单词，无需登录 ChatGPT。学习记录保存在当前浏览器的本地存储中。
 
+## 安卓手机离线版
+
+[下载安卓 APK](https://github.com/Timyuyu/ielts-study-local/releases/download/android-v1.0.0/ielts-offline-android-V1.apk) · [安卓安装说明](mobile/README.md)
+
+APK 约 300 MB，内置题库、词典、音频和课程朗读，安装后可以断网学习，无需电脑或 Node.js。学习记录保存在手机本地。
+
 ## 下载与使用（Windows）
 
-1. 前往 [下载页面](https://github.com/Timyuyu/ielts-study-local/releases/latest)，点击 **Source code (zip)** 并完整解压；也可 [直接下载 v1.0.0](https://github.com/Timyuyu/ielts-study-local/archive/refs/tags/v1.0.0.zip)。
+1. 前往 [电脑版下载页面](https://github.com/Timyuyu/ielts-study-local/releases/tag/v1.0.0)，点击 **Source code (zip)** 并完整解压；也可 [直接下载 v1.0.0](https://github.com/Timyuyu/ielts-study-local/archive/refs/tags/v1.0.0.zip)。
 2. 安装 [Node.js](https://nodejs.org/) 22.13 或更高版本（建议使用 LTS）。安装后若仍提示找不到 Node.js，请重新打开终端或重启电脑。
 3. 首次使用时，双击 **安装依赖.bat**，等待安装完成。这一步需要联网。
 4. 双击 **启动雅思学习APP.vbs**，等待浏览器自动打开；如果启动失败，用 **启动雅思学习APP.bat** 查看错误。

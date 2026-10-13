@@ -12,3 +12,11 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+mobile/offline-audio/
+mobile/android/.gradle/
+mobile/android/build/
+mobile/android/app/build/
+mobile/android/app/src/main/assets/
+mobile/android/local.properties
+*.jks
+*.keystore
