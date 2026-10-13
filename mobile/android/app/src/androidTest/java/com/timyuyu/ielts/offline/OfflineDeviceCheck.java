@@ -4,6 +4,9 @@ import android.app.Activity;
 import android.app.Instrumentation;
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Build;
+import android.graphics.Rect;
+import android.view.WindowInsets;
 import android.webkit.WebView;
 import java.lang.reflect.Field;
 import java.util.concurrent.CountDownLatch;
@@ -39,6 +42,17 @@ public final class OfflineDeviceCheck extends Instrumentation {
         Bundle result = new Bundle();
         try {
             launch();
+            AtomicReference<String> overlap = new AtomicReference<>();
+            runOnMainSync(() -> {
+                if (Build.VERSION.SDK_INT >= 30) {
+                    Rect bounds = new Rect();
+                    web.getGlobalVisibleRect(bounds);
+                    android.graphics.Insets bars = web.getRootWindowInsets().getInsets(WindowInsets.Type.systemBars());
+                    int screenHeight = activity.getWindow().getDecorView().getHeight();
+                    if (bounds.top < bars.top || bounds.bottom > screenHeight - bars.bottom) overlap.set("System bars overlap WebView: " + bounds);
+                }
+            });
+            if (overlap.get() != null) throw new AssertionError(overlap.get());
             evaluate("window.__deviceCheck={done:false}; (async()=>{try{"
                 + "const d=await(await fetch('/dict/ecdict.json')).json(); if(d.count!==50000)throw Error('dictionary');"
                 + "const p=await(await fetch('/api/phonetic?text=hello')).json();if(!p.phonetic.includes('h'))throw Error('phonetic');"
@@ -55,7 +69,7 @@ public final class OfflineDeviceCheck extends Instrumentation {
             Thread.sleep(1000);
             launch();
             if (!"true".equals(evaluate("localStorage.getItem('__offline-device-check')==='saved'"))) throw new AssertionError("storage did not survive restart");
-            result.putString("stream", "Android 16 installed APK: offline launch, dictionary, phonetics, recorded speech, audio playback and seeking, and local storage restart passed. " + checks + "\n");
+            result.putString("stream", "Android 16 installed APK: system bar layout, offline launch, dictionary, phonetics, recorded speech, audio playback and seeking, and local storage restart passed. " + checks + "\n");
             finish(Activity.RESULT_OK, result);
         } catch (Throwable error) {
             result.putString("stream", "Device check failed: " + error + "\n");

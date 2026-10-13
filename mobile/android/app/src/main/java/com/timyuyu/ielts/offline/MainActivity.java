@@ -4,6 +4,7 @@ import android.Manifest;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.pm.PackageManager;
+import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
@@ -14,6 +15,7 @@ import android.webkit.PermissionRequest;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
 import android.view.WindowInsets;
+import android.widget.FrameLayout;
 import java.util.Locale;
 import org.json.JSONObject;
 
@@ -25,14 +27,19 @@ public final class MainActivity extends Activity {
     @Override public void onCreate(Bundle saved) {
         super.onCreate(saved);
         web = new WebView(this);
-        setContentView(web);
-        web.setOnApplyWindowInsetsListener((view, insets) -> {
+        FrameLayout frame = new FrameLayout(this);
+        frame.setBackgroundColor(Color.parseColor("#e5e9df"));
+        frame.addView(web, new FrameLayout.LayoutParams(FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT));
+        setContentView(frame);
+        frame.setOnApplyWindowInsetsListener((view, insets) -> {
             if (Build.VERSION.SDK_INT >= 30) {
                 android.graphics.Insets bars = insets.getInsets(WindowInsets.Type.systemBars() | WindowInsets.Type.displayCutout());
-                view.setPadding(bars.left, bars.top, bars.right, bars.bottom);
+                int bottom = Math.max(bars.bottom, insets.getInsets(WindowInsets.Type.ime()).bottom);
+                view.setPadding(bars.left, bars.top, bars.right, bottom);
             } else view.setPadding(insets.getSystemWindowInsetLeft(), insets.getSystemWindowInsetTop(), insets.getSystemWindowInsetRight(), insets.getSystemWindowInsetBottom());
-            return insets;
+            return Build.VERSION.SDK_INT >= 30 ? WindowInsets.CONSUMED : insets.consumeSystemWindowInsets();
         });
+        frame.requestApplyInsets();
         web.getSettings().setJavaScriptEnabled(true);
         web.getSettings().setDomStorageEnabled(true);
         web.getSettings().setAllowFileAccess(false);
