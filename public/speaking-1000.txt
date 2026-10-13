@@ -1,0 +1,1237 @@
+1.I'm on duty.                  我在上班。  
+2.I'm on leave.                  我在休假。  
+3.I'm on a break.                  我在休息。  
+4.I'm on a diet.                  我在减肥。  
+5.I'm on the way.                  我在路上。  
+6.I'm on the phone.                  我在打电话。  
+7.I'm on a journey.                  我在旅游。  
+8.I'm on the fourth floor.                  我在四层。  
+9.I'm on the way to school.                  我在去学校的路上。  
+10.I'm on the way to work.                  我在去上班的路上。  
+
+11.I'm at home.                  我在家。  
+12.I'm not at home.                  我不在家。  
+13.I'm at work.                  我在单位。  
+14.I'm at the gym.                  我在健身房。  
+15.I'm at the dentist's.                  我在牙科诊所。  
+16.I'm at the hospital.                  我在医院。  
+17.I'm at the museum.                  我在博物馆。  
+18.I'm at the library.                  我在图书馆。  
+19.I'm at the subway station.                  我在地铁站。  
+20.I'm at the airport.                  我在机场。  
+
+21.I'm here to help you.                  我来帮你的。  
+22.I'm here to fix the printer.                  我来修打印机。  
+23.I'm here to buy clothes.                  我来买衣服的。  
+24.I'm here to stay.                  我来投宿。
+25.I'm here to learn how to cook.                  我来学做饭。  
+26.I'm here to see the game.                  我来看比赛的。  
+27.I'm here to compete.                  我来参加比赛的。  
+28.I'm here to attend the wedding.                  我来参加婚礼的。  
+29.I'm here to find a job.                  我来找工作。  
+30.I'm here to see my granny.                  我来看我奶奶的。  
+
+"I'm used to..." (习惯)
+31. I'm used to it.             我已经习惯了。  
+32. I'm used to cold weather.             我习惯了寒冷的天气。  
+33. I'm used to hard work.             我习惯了拼命工作。  
+34. I'm used to having meals at home.             我习惯在家吃饭。  
+35. I'm used to taking trains.             我习惯坐火车。  
+36. I'm used to getting up early.             我习惯了早起。  
+37. I'm used to sleeping late.             我习惯了晚睡。  
+38. I'm used to working overtime.             我习惯了加班。  
+39. I'm used to making decisions myself.             我习惯自己做决定。  
+40. I'm used to cooking by myself.             我习惯自己做饭。  
+
+"I'm sick of..." (受够了/厌倦了)
+41. I'm sick of the bad weather.             我受够了这破天气。  
+42. I'm sick of this job.             我受够了这破工作。  
+43. I'm sick of your nagging.             我受够了你的唠叨。  
+44. I'm sick and tired of her.             我受够了她。  
+45. I'm sick and tired of staying home.             我厌倦了待在家里。  
+46. I'm sick of this place.             我厌倦了这个地方。  
+47. I'm sick of cooking.             我厌倦了做饭。  
+48. I'm sick of having hamburgers every day.             我厌倦了每天吃汉堡。  
+49. I'm sick of working all day.             我厌倦了整天工作。  
+50. I'm sick of your lies.             我受够了你的谎言。  
+
+"I'm kind of..." (有点...)
+51. I'm kind of busy right now.             我现在有点忙。  
+52. I'm kind of tired.             我有点累。  
+53. I'm kind of depressed.             我有点沮丧。  
+54. I'm kind of interested in English.             我有点对英语有兴趣。  
+55. I'm kind of worried about her.             我有点担心她。  
+56. I'm kind of nervous.             我有点紧张。  
+57. I'm kind of hungry.             我有点饿。  
+58. I'm kind of picky about what I eat.             我有点挑食。  
+59. I'm kind of anxious.             我有点焦虑。  
+60. I'm kind of scared.             我有点害怕。  
+
+"I'm looking for..." (我在找...)
+61. I'm looking for a gas station.             我在找加油站。  
+62. I'm looking for a new job.             我在找新工作。  
+63. I'm looking for a cheaper one.             我要找便宜点儿的。  
+64. I'm looking for someone.             我在找人。  
+65. I'm looking for a gift for my girlfriend.             我想给女朋友买份礼物。  
+66. I'm looking for my daughter.             我在找我的女儿。  
+67. I'm looking for my dictionary.             我在找字典。  
+68. I'm looking for my phone.             我在找手机。  
+69. I'm looking for my socks.             我在找袜子。  
+70. I'm looking for the charger.             我在找充电器。  
+
+"I'm trying..." (我在尽力/努力...)
+71. I'm trying my best.             我在尽最大努力。  
+72. I'm trying to sleep.             我正努力睡着。  
+73. I'm trying to learn English.             我正尽力学英语。  
+74. I'm trying to lose weight.             我正在努力减肥。  
+75. I'm trying to understand what he said.             我正努力理解他说的话。  
+76. I'm trying to keep happy.             我在尽力的保持开心。  
+77. I'm trying to become a better person.             我在尽力的变成一个更好的人。  
+78. I'm trying to break the bad habit of staying up late.             我在尽力的改掉熬夜的坏习惯。  
+79. I'm trying to figure out how the machine works.             我在尽力的弄清楚这个机器是怎么运行的。  
+80. I'm trying to get in touch with Jack.             我在尽力的跟杰克联系上。  
+
+"I'm getting..." (我开始变得...)
+81. I'm getting sleepy.             我开始困了。  
+82. I'm getting cold.             我开始觉得冷了。  
+83. I'm getting excited.             我开始兴奋起来了。  
+84. I'm getting tired of this.             我开始厌倦他了。  
+85. I'm getting hungry.             我开始饿了。  
+86. I'm getting sad.             我开始难过了。  
+87. I'm getting confused.             我开始想不通了。  
+88. I'm getting bored.             我开始变得无聊了。  
+89. I'm getting upset.             我开始不安了。  
+90. I'm getting better.             我开始变得更好了。  
+
+"I'm thinking of..." (我正在考虑...)
+91. I'm thinking of buying a car.             我正在考虑买辆车。  
+92. I'm thinking of getting a haircut.             我正在考虑去剪头发。  
+93. I'm thinking of inviting the Kims for dinner.             我正在考虑邀请金一家来吃晚饭。  
+94. I'm thinking of going on a vacation.             我正在考虑去度假。  
+95. I'm thinking of changing jobs.             我正在考虑换份工作。  
+96. I'm thinking of writing an article.             我正在考虑写一篇文章。  
+97. I'm thinking of getting married.             我正考虑结婚。  
+98. I'm thinking of taking my parents to Yunnan.             我正考虑带父母去云南。  
+99. I'm thinking of studying abroad.             我正考虑去国外留学。  
+100. I'm thinking of going home next month.             我正考虑下个月回家。  
+
+============================================================
+
+"I'm planning to..." (我计划/打算...) 
+101. I'm planning to have a party next week.       我计划下周开个派对。  
+102. I'm planning to go to Paris this weekend.       我计划这周末去巴黎。  
+103. I'm planning to work on my paper tonight.       我打算今晚写论文。  
+104. I'm planning to spend Christmas with my parents.       我打算跟父母一起过圣诞节。  
+105. I'm planning to buy a new car.       我打算买辆新车。  
+106. I'm planning to travel abroad.       我计划要出国旅行。  
+107. I'm planning to go fishing.       我计划去钓鱼。  
+108. I'm planning to go home next week.       我计划下周回家。  
+109. I'm planning to get married.       我打算要结婚。  
+110. I'm planning to take the job.       我打算要接受那份工作。  
+
+---
+
+"I'm gonna..." (我要...) 
+111. I'm gonna study.       我要学习了。  
+112. I'm gonna write.       我要写作了。  
+113. I'm gonna take a shower.       我要洗澡了。  
+114. I'm gonna be there at eight.       我8点到那儿。  
+115. I'm gonna stay here for a week.       我会在这儿待一周。  
+116. I'm gonna learn from him.       我要和他学习。  
+117. I'm gonna join a party tonight.       我今晚要去参加一个派对。  
+118. I'm gonna tell you what happened.       我要告诉你发生了什么事儿。  
+119. I'm gonna go back tomorrow.       我要明天回去。  
+120. I'm gonna call her after the meeting.       会议结束后我会给他打电话。  
+
+---
+
+"I'd be happy to..." (我很乐意...) 
+121. I'd be happy to help.       我很乐意帮忙。  
+122. I'd be happy to help you out.       我很乐意帮助你摆脱困境。  
+123. I'd be happy to help in any way I can.       我会尽我所能去帮助你。  
+124. I'd be happy to show you around.       我很乐意领 你四处转转。  
+125. I'd be happy to take photos.       我很乐意拍照。  
+126. I'd be happy to go with you.       我很高兴和你一起去。  
+127. I'd be happy to work with you.       我很高兴和你一起工作。  
+128. I'd be happy to have dinner with you.       我很高兴和你一起吃晚餐。  
+129. I'd be happy to give you some advice.       我很高兴能给你一些建议。  
+130. I'd be happy to introduce my friend to you.       我很高兴能介绍我的好友给你。  
+
+---
+
+"I'm willing to..." (我愿意...) 
+131. I'm willing to help you.       我愿意帮助你。  
+132. I'm willing to give it a shot.       我愿意试一试。  
+133. I'm willing to change my mind.       我愿意改变主意。  
+134. I'm willing to take the risk.       我愿意冒险。  
+135. I'm willing to go with him.       我愿意跟他一起去。  
+136. I'm willing to listen to you.       我愿意洗耳恭听。  
+137. I'm willing to try new things.       我愿意尝试新事物。  
+138. I'm willing to admit that I'm wrong.       我愿意承认我错了。  
+139. I'm willing to work with you.       我愿意和你合作。  
+140. I'm willing to share my experiences.       我愿意分享我的经历。  
+
+---
+
+"I'm looking forward to..." (我期待着...) 
+141. I'm looking forward to seeing you.       我期待着能见到你。  
+142. I'm looking forward to being promoted.       我期待着能升职。  
+143. I'm looking forward to your response.       我期待着你的回复。  
+144. I'm looking forward to your visit.       我期待着你的光临。  
+145. I'm looking forward to your arrival.       我期待着你的到来。  
+146. I'm looking forward to the weekend.       我期待着过周末。  
+147. I'm looking forward to visiting him soon.       我期待着尽快去拜访他。  
+148. I'm looking forward to your sharing.       我期待着你的分享。  
+149. I'm looking forward to studying in New York.       我期待着去纽约学习。  
+150. I'm looking forward to learning English with you.       我期待着和您一起学英语。  
+
+---
+
+"I'm dying to..." (我真想...) 
+151. I'm dying to see you.       我真想见你。  
+152. I'm dying to see the movie.       我真想去看那部电影。  
+153. I'm dying to take a bite.       我真想尝一尝。  
+154. I'm dying to get out of here.       我真想离开这儿。  
+155. I'm dying to know what happened.       我真想知道发生了什么。  
+156. I'm dying to know what it means.       我真想知道这是什么意思。  
+157. I'm dying to improve my English.       我真想提高我的英语。  
+158. I'm dying to take a vacation.       我真想去度假。  
+159. I'm dying to sleep.       我真想睡觉。  
+160. I'm dying to be successful.       我真想成功。  
+
+---
+
+"I can't wait to..." (我迫不及待...) 
+161. I can't wait to see you.       我迫不及待的想见你。  
+162. I can't wait to see the result.       我迫不及待的想看到结果。  
+163. I can't wait to go now.       我迫不及待的现在想走。  
+164. I can't wait to graduate.       我迫不及待的想毕业。  
+165. I can't wait to be a mom.       我迫不及待的想成为一名母亲。  
+166. I can't wait to go home.       我等不及想回家。  
+167. I can't wait to see my idol.       我等不及想见到我的偶像。  
+168. I can't wait to read that book.       我等不及想看那本书。  
+169. I can't wait to take a vacation.       我等不及想去度假。  
+170. I can't wait to try the new restaurant.       我等不及想尝试那家新餐厅。  
+
+---
+
+"I'm about to..." (我正要...) 
+171. I'm about to go home.       我正要回家。  
+172. I'm about to go out.       我正要出去。  
+173. I'm about to go to bed.       我正要睡觉。  
+174. I'm about to call him.       我正要给他打电话。  
+175. I'm about to go to the bank.       我正要去银行。  
+176. I'm about to leave.       我正要离开。  
+177. I'm about to write it down.       我正要把它写下来。  
+178. I'm about to board the plane.       我正要登机。  
+179. I'm about to pick up my daughter.       我正要去接女儿。  
+180. I'm about to have a meeting.       我正要去开会。  
+
+---
+
+"I'm supposed to..." (我应该...) 
+181. I'm supposed to be there at nine.       我应该9点到那儿。  
+182. I'm supposed to be there twenty minutes earlier.       我应该提前20分钟到那儿。  
+183. I'm supposed to finish this paper by tomorrow.       我应该在明天之前把这篇论文写完。  
+184. I'm supposed to return this book by Wednesday.       我应该在周三之前还书。  
+185. I'm supposed to meet him this afternoon.       我应该今天下午见他。  
+186. I'm supposed to tell her the truth.       我应该告诉他真相。  
+187. I'm supposed to go on a diet.       我应该减肥。  
+188. I'm supposed to get up early.       我应该早起。  
+189. I'm supposed to go home early.       我应该早点回家。  
+190. I'm supposed to forgive her.       我应该原谅他。  
+
+---
+
+"Are you ready to...?" (你准备好...了吗？) 
+191. Are you ready to go?       你准备好走了吗？  
+192. Are you ready to order?       你准备好点菜了吗？  
+193. Are you ready to go back to school?       你准备好回校了吗？  
+194. Are you ready for the test?       你准备好考试了吗？  
+195. Are you ready for the trip?       你准备好去旅行了吗？  
+196. Are you ready to ride?       你准备好开始骑行了吗？  
+197. Are you ready to board?       你准备好登机了吗？  
+198. Are you ready to dive?       你准备好潜水了吗？  
+199. Are you ready to leave?       你准备好离开了吗？  
+200. Are you ready to fight back?       你准备好反击了吗？  
+---
+====================================================================
+"I'm ready to..." (我准备好...) 
+201. I'm ready to go.       我准备好出发了。  
+202. I'm ready to help.       我随时可以帮忙。  
+203. I'm ready to work hard.       我准备努力工作。  
+204. I'm ready for a vacation.       我准备去度假。  
+205. I'm ready for the interview.       我准备好面试了。  
+206. I'm ready to eat.       我准备开始吃饭了。  
+207. I'm ready to write.       我准备开始写作。  
+208. I'm ready to brush my teeth.       我准备去刷牙了。  
+209. I'm ready to check out.       我准备要退房了。  
+210. I'm ready to buy it.       我准备要买它了。  
+
+---
+
+"Are you sure...?" (你确定...吗？) 
+211. Are you sure?       你确定吗？  
+212. Are you sure about this?       你确定是这样吗？  
+213. Are you sure you wanna do this?       你确定你要这么做吗？  
+214. Are you sure she's not here?       你确定他不在这儿吗？  
+215. Are you sure he won't mind?       你确定他不介意吗？  
+216. Are you sure you locked the door?       你确定锁门了吗？  
+217. Are you sure he was lying?       你确定他在撒谎吗？  
+218. Are you sure it is safe?       你确定他安全吗？  
+219. Are you sure you did that?       你确定你做过这件事吗？  
+220. Are you sure you're telling the truth?       你确定你说的是实话吗？  
+
+---
+
+"I'm sure..." (我确定...) 
+221. I'm sure about that.       我对那件事很确定。  
+222. I'm sure of her talent.       我对她的能力很有信心。  
+223. I'm sure that she's all right.       我确信她没事儿。  
+224. I'm sure you will do a good job.       我确信你会做得更好。  
+225. I'm sure I've met him before.       我确信以前见过他。  
+226. I'm sure he didn't mean any harm.       我确定他本无恶意。  
+227. I'm sure you will get your wish.       我确定你会心想事成。  
+228. I'm sure you'll get there.       我确定你会到达那里。  
+229. I'm sure you will make it.       我确定你会做到的。  
+230. I'm sure he'll be famous.       我确定他会很出名。  
+
+---
+
+"I'm afraid..." (恐怕...) 
+231. I'm afraid so.       恐怕是的。  
+232. I'm afraid not.       恐怕不是。  
+233. I'm afraid I'm going to be late.       恐怕我会迟到。  
+234. I'm afraid I don't agree with that.       恐怕我不能同意。  
+235. I'm afraid I have to say goodbye.       恐怕我得说再见了。  
+236. I'm afraid you misunderstood me.       恐怕你误解我了。  
+237. I'm afraid you pissed him off.       恐怕你惹他生气了。  
+238. I'm afraid he will blame you.       恐怕他会责怪你。  
+239. I'm afraid she's unhappy.       恐怕他不开心了。  
+240. I'm afraid no one is gonna get out of here.       恐怕没人能离开这儿。  
+
+---
+
+"I never thought..." (我从来没想过...) 
+241. I never thought it would happen.       我从来没想过会发生这样的事情。  
+242. I never thought she would lie to me.       我从来没想过他会对我说谎。  
+243. I never thought things would get worse.       我从来没想过情况会越来越糟。  
+244. I never thought I would like him.       我从来没想过会喜欢上他。  
+245. I never thought we would be friends.       我从来没想过我们会成为朋友。  
+246. I never thought that she would go so far.       我从来没想过他会如此过分。  
+247. I never thought you would get married with her.       我从来没想过你会和他结婚。  
+248. I never thought you would have three babies.       我从来没想过你会有三个孩子。  
+249. I never thought he would get in prison.       我从来没想到他会入狱。  
+250. I never thought he would turn his back on his country.       我从来没想到他会叛国。  
+
+---
+
+"I didn't expect..." (我没想到...) 
+251. I didn't expect this at all.       我真没想到会这样。  
+252. I didn't expect you so early.       我没想到你会来的这么早。  
+253. I didn't expect to see you here.       我没想到会在这里见到你。  
+254. I didn't expect that you would answer me so quickly.      我没想到你会这么快回复。  
+255. I didn't expect the interview would last so long.       我没想到面试会持续这么久。  
+256. I didn't expect him to get angry.       我真没想到他急了。  
+257. I didn't expect you to finish it so soon.       我真没想到你能完成的这么快。  
+258. I didn't expect you have so much money.       我真没想到能有这么多钱。  
+259. I didn't expect you would come.       我真没想到你来了。  
+260. I didn't expect that this book would be so interesting.       我真没想到这本书这么有趣。  
+
+---
+
+"I'm surprised..." (我很惊讶...) 
+261. I'm surprised at the news. 这条消息让我非常惊讶。  
+262. I'm surprised to hear that. 听到这条消息让我很惊讶。  
+263. I'm surprised to see you. 见到你让我很惊讶。  
+264. I'm surprised that you came.       你来了让我很惊讶。  
+265. I'm not surprised.       我不感到吃惊。  
+266. I'm surprised that you should say that.       我很惊讶你竟然那么说。  
+267. I'm surprised how bad they are.       我很惊讶他们那么坏。  
+268. I'm surprised she did it so well.       我很惊讶他做的那么棒。  
+269. I'm surprised nobody believed him.       我很惊讶没人相信他。  
+270. I'm surprised he did this to you.       我很惊讶他这样对你。  
+
+---
+
+"I guess..." (我想...) 
+271. I guess so.       我想是的。  
+272. I guess you're right.       我想你是对的。  
+273. I guess something went wrong.       我想出了点问题。  
+274. I guess I misunderstood.       我想我误解了。  
+275. I guess he doesn't like pizza.       我想他不喜欢pizza。  
+276. I guess you'll be looking for a new job.       我想你要找新工作了。  
+277. I guess everybody learns differently.       我想每个人学习的方式不一样。  
+278. I guess that must be really cool.       我想这一定很酷。  
+279. I guess she has known it.       我想她已经知道了。  
+280. I guess he's not satisfied with what you did.       我想他对你做的事情不满意。  
+
+---
+
+"I bet..." (我打赌...) 
+281. I bet it will rain tomorrow.       我打赌明天下雨。  
+282. I bet you will like her.       我打赌你会喜欢她。  
+283. I bet your parents will be very happy.       我打赌你父母会非常开心。  
+284. I bet you will be a good singer.       我打赌你会成为一名优秀的歌手。  
+285. I bet you will pass the exam.       我打赌你会通过考试。  
+286. I bet it costs a lot of money.       我打赌他要花很多钱。  
+287. I bet he forgot the meeting.       我打赌他忘了这个会议。  
+288. I bet he knows where the key is.       我打赌他知道钥匙在哪儿。  
+289. I bet the money is under the rock.       我打赌钱一定在石头底下。  
+290. I bet she will be something.       我打赌他会是个人物。  
+
+---
+
+"Would you like...?" (你要...吗？) 
+291. Would you like some dessert?       你要来点甜点吗？  
+292. Would you like a drink?       你要喝点什么吗？  
+293. Would you like to give it a shot?       你要试一试吗？  
+294. Would you like to leave a message for him?       你要给他留个口信吗？  
+295. Would you like to have some yogurt?       你想喝点酸奶吗？  
+296. Would you like to stay here?       你要留下来吗？  
+297. Would you like to be a fireman?       你要成为一名消防员吗？  
+298. Would you like to take a shower?       你想洗个澡吗？  
+299. Would you like to ride a bike?       你想骑自行车吗？  
+300. Would you like to join us?       你想加入我们吗？  
+============================================================================
+
+"I'd like to..." (我想...) 
+301. I'd like to but I can't.       我倒是想但是我不能。  
+302. I'd like to go to Nanjing.       我想去南京。  
+303. I'd like to make a reservation.       我想预约。  
+304. I'd like to book a table for tonight.       我想预定今晚的座位。  
+305. I'd like to learn how to play golf.       我想学打高尔夫。  
+306. I'd like to learn a new language.       我想学一门新语言。  
+307. I'd like to think it over.       我想考虑一下。  
+308. I'd like to leave this.       我想离开这里。  
+309. I'd like to live here.       我想住在这里。  
+310. I'd like to ask you some questions.       我想问你一些问题。  
+
+"I feel like..." (我想/      我感觉...) 
+311. I feel like going to the zoo.       我想去动物园。  
+312. I feel like eating ice cream.       我想吃冰淇淋。  
+313. I feel like I'm going crazy.       我感觉我要疯了。  
+314. I feel like I'm thirsty.       我感觉很渴。  
+315. I feel like I'm sick.       我感觉我病了。  
+316. I feel like staying at home.       我想待在家里。  
+317. I feel like having French fries.       我想吃薯条。  
+318. I feel like losing my mind.       我感觉我快失去理智了。  
+319. I feel like catching a cold.       我感觉我感冒了。  
+320. I feel like I'm a loser.       我感觉我是个失败者。  
+
+"I don't feel like..." (我不想...) 
+321. I don't feel like working.       我不想上班。  
+322. I don't feel like eating anything.       我什么都不想吃。  
+323. I don't feel like doing anything.       我什么都不想做。  
+324. I don't feel like seeing anyone.       我不想见任何人。  
+325. I don't feel like trying anything new.       我不想尝试新事物。  
+326. I don't feel like answering the phone.       我不想接电话。  
+327. I don't feel like staying here.       我不想待在这里。  
+328. I don't feel like quarreling with you.       我不想和你吵架。  
+329. I don't feel like going anywhere.       我哪儿都不想去。  
+330. I don't feel like changing anything.       我不想改变任何事情。  
+
+"Do you feel like...?" (你想...吗？) 
+331. Do you feel like going skiing?       你想去滑雪吗？  
+332. Do you feel like taking a walk?       你想去散步吗？  
+333. Do you feel like going to the movies?       你想去看电影吗？  
+334. Do you feel like having a drink?       你想去喝一杯吗？  
+335. Do you feel like having a chat?       你想聊会天吗？  
+336. Do you feel like eating ice cream?       你想吃冰淇淋吗？  
+337. Do you feel like joining the party?       你想参加那个聚会吗？  
+338. Do you feel like attending the meeting?       你想参加那个会议吗？  
+339. Do you feel like seeing the Beijing Opera?       你想去看京剧吗？  
+340. Do you feel like seeing a talk show?       你想去看脱口秀吗？  
+
+"I prefer..." (我更喜欢...) 
+341. I prefer classical music.       我更喜欢古典音乐。  
+342. I prefer buying Apple products.       我更喜欢买苹果品牌的系列产品。  
+343. I prefer coffee to tea.        比起茶我更喜欢咖啡。  
+344. I prefer walking to running.        比起跑步我更喜欢散步。  
+345. I prefer Beijing to Hong Kong for the honeymoon.       比起香港我更想去北京度蜜月。  
+346. I prefer light music.       我更喜欢轻音乐。  
+347. I prefer coastal cities.       我更喜欢海边城市。  
+348. I prefer getting up early.       我更喜欢早起。  
+349. I prefer taking high speed trains to driving. 比起开车我更喜欢坐高铁。  
+350. I prefer barbecue to fried dishes. 比起炒菜我更喜欢烧烤。  
+
+"You'd better..." (你最好...) 
+351. You'd better write it down.       你最好把这个写下来。  
+352. You'd better leave now.       你最好现在离开。  
+353. You'd better ask your teacher.       你最好去问老师。  
+354. You'd better call your mother.       你最好给妈妈打个电话。  
+355. You'd better fix your makeup.       你最好补补妆。  
+356. You'd better keep quiet.       你最好保持安静。  
+357. You'd better stay here.       你最好待在这里。  
+358. You'd better finish reading the book.       你最好把这本书看完。  
+359. You'd better make the PowerPoint by yourself.       你最好自己做PPT。  
+360. You'd better have breakfast every day.       你最好每天吃早餐。  
+
+"You'd better not..." (你最好别...) 
+361. You'd better not hang out with him.       你最好别跟他闲逛。  
+362. You'd better not risk driving tonight. 今晚你最好别冒险开车。  
+363. You'd better not do that again.       你最好别再那样做了。  
+364. You'd better not look at your phone while walking.       你最好走路的时候别看手机。  
+365. You'd better not spend too much time on your phone.       你最好别在手机上浪费太多时间。  
+366. You'd better not go outside at night.       你最好晚上别出去。  
+367. You'd better not go abroad.       你最好别出国。  
+368. You'd better not stay up late.       你最好别熬夜。  
+369. You'd better not listen to him.       你最好别听他的。  
+370. You'd better not drive in rainy days.       你最好别在雨天开车。  
+
+"I'd rather..." (我宁愿...) 
+371. I'd rather go to bed.       我宁愿睡觉。  
+372. I'd rather stay at home.       我宁愿呆在家里。  
+373. I'd rather go by train.       我宁愿坐火车去。  
+374. I'd rather tell her myself.       我宁愿亲口告诉他。  
+375. I'd rather exercise than take a nap.       我宁愿锻炼也不愿小睡会儿。  
+376. I'd rather work at home.       我宁愿在家办公。  
+377. I'd rather shop online.       我宁愿在网上买东西。  
+378. I'd rather have lunch in my office.       我宁愿在办公室吃午饭。  
+379. I'd rather die than take that medicine.       我宁愿死也不愿喝那药。  
+380. I'd rather beg than borrow money from him.       我宁愿要饭也不和他借钱。  
+
+"I've decided to..." (我决定...) 
+381. I've decided to become a nurse.       我决定当一名护士。  
+382. I've decided to move to Canada.       我决定搬到加拿大。  
+383. I've decided to stay at home.       我决定待在家里。  
+384. I've decided to help you.       我决定帮你。  
+385. I've decided to quit.       我决定辞职。  
+386. I've decided to read a book every month.       我决定每个月看一本书。  
+387. I've decided to set up my own business.       我决定创业了。  
+388. I've decided to go abroad.       我决定出国。  
+389. I've decided to immigrate.       我决定移民。  
+390. I've decided to take the postgraduate entrance exam.       我决定考研。  
+
+"I didn't mean to..." (我不是故意...) 
+391. I didn't mean to hurt you.       我不是故意伤害你的。  
+392. I didn't mean to offend you.       我不是故意冒犯你的。  
+393. I didn't mean to upset you.       我不是故意让你不开心的。  
+394. I didn't mean to interrupt.       我不是故意打断的。  
+395. I didn't mean to cause trouble.       我不是故意惹麻烦的。  
+396. I didn't mean to shout at you.       我不是故意吼你的。  
+397. I didn't mean to scare you.       我不是故意吓唬你的。  
+398. I didn't mean to bump into you.       我不是故意撞到你的。  
+399. I didn't mean to stand you up.       我不是故意放你鸽子的。  
+400. I didn't mean to step on you.       我不是故意踩到你的。  
+
+==========================================================
+
+"Can I...?" (我可以...吗？) 
+401. Can I help you?       我可以帮助你吗？  
+402. Can I ask you a favor?       我可以请你帮忙吗？  
+403. Can I try on this jacket?       我可以试试这件夹克吗？  
+404. Could I speak to you for a moment?       我可以跟你说几句话吗？  
+405. Could I have your phone number?       可以告诉我的手机号码吗？  
+406. Can I sit here?       我可以坐这儿吗？  
+407. Can I ask you some questions?       我可以问你几个问题吗？  
+408. Can I have your name?       我能知道你的名字吗？  
+409. Can I park here?       我可以在这里停车吗？  
+410. Can I have the receipt? 可以给我收据吗？  
+
+"May I...?" (我可以...吗？) 
+411. May I use the room?       我可以用一下这个房间吗？  
+412. May I invite you to dinner?       我可以邀请共进晚餐吗？  
+413. May I leave now?       我现在可以离开了吗？  
+414. May I make a suggestion?       我提个建议行吗？  
+415. May I call you in ten minutes? 10分钟后给你打电话可以吗？  
+416. May I borrow your umbrella?       我可以借用你的雨伞吗？  
+417. May I take a photo here?       我可以在这里拍照吗？  
+418. May I speak to your husband for a moment?       我可以和你丈夫说几句话吗？  
+419. May I see your passport?       我可以看看你的护照吗？  
+420. May I pay by WeChat?       我可以用微信支付吗？  
+
+"Good to..." (很高兴...) 
+421. Good to see you again.       很开心又见到你。  
+422. Good to hear your voice.        很高兴听到你的声音。  
+423. Good to hear he's fine.        很高兴听到他很好。  
+424. Good to know he's married.        得知他结婚了很高兴。  
+425. Good to know you're back.       我很高兴你回来了。  
+426. Good to have your call.        很高兴接到你的电话。  
+427. Good to receive your gift.        很高兴收到你的礼物。  
+428. Good to chat with you.        很高兴和你聊天儿。  
+429. Good to take part in your birthday party.        很高兴参加你的生日聚会。  
+430. Good to go with you.        很高兴和你一起同行。  
+
+"I should have..." (我本该...) 
+431. I should have told him.       我本该告诉他的。  
+432. I should have done something.       我本该做点什么的。  
+433. I should have stopped him from driving.       我本该阻止他开车的。  
+434. I should have kept silent.       我本该保持沉默的。  
+435. I should have reminded her.       我本该提醒他的。  
+436. I should have continued my study.       我本应该继续上学的。  
+437. I should have left here.       我本应该离开这里的。  
+438. I should have visited her.       我本应该去看他的。  
+439. I should have known earlier.       我本应该早点知道的。  
+440. I should have sent him to the station.       我本应该送他去车站的。  
+
+"I shouldn't have..." (我就不该...) 
+441. I shouldn't have said that.       我就不该那么说。  
+442. I shouldn't have done it.       我就不该那么做。  
+443. I shouldn't have left my shoes outside.       我就不该把鞋放在外面。  
+444. I shouldn't have put off the meeting.       我就不该推迟会议。  
+445. I shouldn't have listened to you.       我就不该听你的话。  
+446. I shouldn't have lost my temper.       我就不该发脾气的。  
+447. I shouldn't have asked.       我就不该问的。  
+448. I shouldn't have called you for advice.       我就不该打电话问你的意见的。  
+449. I shouldn't have eaten so much.       我就不该吃这么多。  
+450. I shouldn't have loved you.       我就不该爱上你。  
+
+"I had no choice but to..." (我别无选择只能...) 
+451. I had no choice but to leave.       除了离开我别无选择。  
+452. I had no choice but to take the bus.       除了坐公交车我别无选择。  
+453. I had no choice but to follow the orders.       除了服从命令我别无选择。  
+454. I had no choice but to sleep on the couch.       除了睡在沙发上我别无选择。  
+455. I had no choice but to start all over again.       除了重新开始我别无选择。  
+456. I had no choice but to wait.       除了等待我别无选择。  
+457. I had no choice but to lie down.       除了躺下我别无选择。  
+458. I had no choice but to walk home.       除了步行回家我别无选择。  
+459. I had no choice but to call the police.       除了报警我别无选择。  
+460. I had no choice but to work in the factory.       除了去工厂上班我别无选择。  
+
+"I'm calling to..." (我打电话来...) 
+461. I'm calling to make an appointment.       我打电话来预约。  
+462. I'm calling to change our appointment.       我打电话来是想更改预约时间。  
+463. I'm calling to apologize.       我打电话来道歉。  
+464. I'm calling to ask you a favor.       我打电话来是想请你帮助。  
+465. I'm calling to say goodbye.       我打电话来是道别的。  
+466. I'm calling to check the order.       我打电话来核对订单。  
+467. I'm calling to talk about the payment.       我打电话来讨论付款的问题。  
+468. I'm calling to confirm my reservation.       我打电话来确认预定情况。  
+469. I'm calling to cancel my reservation.       我打电话来取消预定。  
+470. I'm calling to thank you.       我打电话来是向你道谢的。  
+
+"I promise..." (我保证...) 
+471. I promise.       我保证。  
+472. I promise you it's worth it.       我向你保证这么做是值得的。  
+473. I promise you'll regret it.       我保证你会后悔的。  
+474. I promise to keep it a secret.       我保证保守秘密。  
+475. I promise I'll pay you back tomorrow.       我保证明天一定还你钱。  
+476. I promise I'll call you back.       我保证会给你回电话的。  
+477. I promise I'll make it up to you.       我保证我会补偿你。  
+478. I promise to return the book to you.       我保证会还你书。  
+479. I promise to study hard.       我保证会努力学习。  
+480. I promise I'll be good to you.       我保证我会对你好的。  
+
+"Remember to..." (      记得...) 
+481. Remember to water the plants.       记得给植物浇水。  
+482. Remember to take out the garbage.       记得扔垃圾。  
+483. Remember to feed the cat.       记得喂猫。  
+484. Remember to take an umbrella.       记得带上雨伞。  
+485. Remember to call me when you arrive.       记得到了就给我打电话。  
+486. Remember to lock the door.       记得锁门。  
+487. Remember to turn off the light.       记得关灯。  
+488. Remember to take the medicine.       记得吃药。  
+489. Remember to take the keys.       记得带钥匙。  
+490. Remember to bring your camera.       记得带上你的相机。  
+
+"Don't forget to..." (      别忘了...) 
+491. Don't forget your bag.       别忘了你的包。  
+492. Don't forget my birthday.       别忘了我的生日。  
+493. Don't forget to keep in touch.       别忘了保持联络。  
+494. Don't forget to call me.       别忘了给我打电话。  
+495. Don't forget to lock the door.       别忘了锁门。  
+496. Don't forget to come to our party.       别忘了来参加我们的聚会。  
+497. Don't forget to eat fruit.       别忘了吃水果。  
+498. Don't forget to turn off the light.       别忘了关灯。  
+499. Don't forget to put on the mask.       别忘了戴口罩。  
+500. Don't forget to wear the sweater.       别忘了穿毛衣。  
+
+==============================================================
+
+"Remind me to..." (      提醒      我...) 
+501. Remind me to see the doctor this Friday.       提醒我这周五去看医生。  
+502. Remind me to call her when I get back.       提醒我回来后给他打电话。  
+503. Remind me to buy her a present.       提醒我给他买礼物。  
+504. Remind me to pay her a visit on Sunday.       提醒我周日去拜访他。  
+505. Remind me to take the medicine tomorrow morning.       提醒我明早吃药。  
+506. Remind me to fasten the seat belt.       提醒我系安全带。  
+507. Remind me to see the doctor.       提醒我去看医生。  
+508. Remind me to buy the tickets.       提醒我买票。  
+509. Remind me to attend the meeting.       提醒我参加会议。  
+510. Remind me to take the interview next Monday.       提醒我下周一参加面试。  
+
+"I've heard..." (我听说过...) 
+511. I've heard of you.       我听说过你。  
+512. I've heard the news.       我听说过这个消息。  
+513. I've heard that you're good at math.       听说你数学很好。  
+514. I've heard that there's a nice park around here.        听说这附近有个不错的公园儿。  
+515. I've never heard of it.       我从没有听说过这件事儿。  
+516. I've heard of the story.       我听说过这个故事。  
+517. I've heard he left Beijing.       我听说他离开北京了。  
+518. I've heard it is quite expensive.       我听说他很贵。  
+519. I've heard they're getting divorced.       我听说他们要离婚了。  
+520. I've heard the movie is boring.       我听说那部电影很无聊。  
+
+"Have you heard..." (你听说过...吗？) 
+521. Have you heard of the news?       你听说那个消息了吗？  
+522. Have you heard of the story?       你听过这个故事吗？  
+523. Have you heard of the joke?       你听说过这个笑话吗？  
+524. Have you heard of the song?       你听说过这首歌吗？  
+525. Have you heard of the movie?       你听说过这部电影吗？  
+526. Have you heard of the city?       你听说过这个城市吗？  
+527. Have you heard of the company?       你听说过这家公司吗？  
+528. Have you heard of that place?       你听说过那个地方吗？  
+529. Have you heard of the accident?       你听说过这次事故吗？  
+530. Have you heard of this brand?       你听说过这个牌子吗？  
+
+"I've been... since/for..." (自从.../已经...) 
+531. I've been learning English since ten.       我10岁开始就学英语了。  
+532. I've been collecting stamps since high school.       我从高中就开始集邮。  
+533. I've been ill since last week.       上周起我就一直在生病。  
+534. I've been working for twelve hours.       我已经工作12个小时了。  
+535. I've been married for eighteen years.       我已经结婚18年了。  
+536. I've been single since you left.       你走后我就一直单身。  
+537. I've been missing you since the school broke up.        自从学校放假后我一直在想你。  
+538. I've been interested in music since childhood.        自从儿时起我就一直对音乐感兴趣。  
+539. I've been an English teacher since twenty-four.        从24岁起我就是一名英语老师。  
+540. I've been awake for forty-eight hours.       我已经48小时没合眼了。  
+
+"I've been to..." (我去过...) 
+541. I've been here before.       我以前来过这里。  
+542. I've been here twice.       我来过这里两次。  
+543. I've been to Mexico several times.       我去过墨西哥几次。  
+544. I've been to their house a few times.       我去过他们家几次。  
+545. I've been to many countries.       我去过很多国家。  
+546. I've been to many cities.       我去过很多城市。  
+547. I've been to Beijing before.       我以前去过北京。  
+548. I've been to the Forbidden City many times.       我去过故宫好多次了。  
+549. I've never been there.       我从没去过那里。  
+550. I've never been to America.       我从没去过美国。  
+
+"I've never..." (我从没...) 
+551. I've never done anything like this.       我从没做过这样的事。  
+552. I've never had such a busy day.       我从没这么忙过。  
+553. I've never heard of that.       我从没听说过那个。  
+554. I've never hurt anyone.       我从来没伤害过任何人。  
+555. I've never cooked this.       我从来没做过这种菜。  
+556. I've never seen him get mad.       我从没见过他生气。  
+557. I've never tasted anything like it.       我从没尝过这样的味道。  
+558. I've never seen anyone like him.       我从没见过像他这样的人。  
+559. I've never travelled alone.       我从没独自旅行过。
+560. I've never seen a blue whale.       我从没见过蓝鲸。  
+
+"Have you ever...?" (你曾经...过吗？) 
+561. Have you ever heard of it?       你听过那件事吗？  
+562. Have you ever seen a blue whale?       你见过蓝鲸吗？  
+563. Have you ever dived?       你潜过水吗？  
+564. Have you ever tried bungee jumping?       你试过蹦极吗？  
+565. Have you ever felt happy for no reason?       你有过无缘无故高兴的时候吗？  
+566. Have you ever drunk milk tea?       你喝过奶茶吗？  
+567. Have you ever seen anything like it?       你见过这种东西吗？  
+568. Have you ever been to America?       你去过美国吗？  
+569. Have you ever seen a waterfall?       你见过瀑布吗？  
+570. Have you ever swam in a river?       你在河里游过泳吗？  
+
+"I'm in the middle of..." (我正忙着...) 
+571. I'm in the middle of something.       我正忙着呢。  
+572. I'm in the middle of a class.       我正忙着上课呢。  
+573. I'm in the middle of a meeting.       我正忙着开会呢。  
+574. I'm in the middle of cooking.       我正忙着做饭呢。  
+575. I'm in the middle of taking care of the child.       我正忙着照顾孩子呢。  
+576. I'm in the middle of a call.       我正忙着打电话呢。  
+577. I'm in the middle of an interview.       我正忙着面试呢。  
+578. I'm in the middle of cleaning the room.       我正忙着打扫房间呢。  
+579. I'm in the middle of replying to the emails.       我正忙着回复邮件呢。  
+580. I'm in the middle of dealing with the work stuff.       我正忙着处理工作呢。  
+
+"You look like..." (你看起来像...) 
+581. You look like your mother.       你跟你母亲长得真像。  
+582. You look like someone I know.       你很像我认识的一个人。  
+583. You look exactly like your twin brother.       你长得跟你的双胞胎哥哥简直一模一样。  
+584. You look like a million bucks.       你气色真不错。  
+585. You look like you're hungry.       你看上去像是饿了。  
+586. You look like a nice young man.       你看上去像一个很优秀的年轻人。  
+587. You look like you've been through a lot.       你看上去像经历了很多。  
+588. You look like a prince.       你看起来像个王子。  
+589. You look like a good person.       你看上去像一个好人。  
+590. You look like a painter.       你看起来像个画家。  
+
+"I'm not much of a..." (我不太擅长...) 
+591. I'm not much of a talker.       我不太爱说话。  
+592. I'm not much of a reader.       我不太爱读书。  
+593. I'm not much of a cook.       我不太会做饭。  
+594. I'm not much of a writer.       我不太会写作。  
+595. I'm not much of a housekeeper.       我不擅长整理家务。  
+596. I'm not much of a decision maker.       我不擅长做决定。  
+597. I'm not much of a leader.       我不擅长当领导。  
+598. I'm not much of a drinker.       我不擅长喝酒。  
+599. I'm not much of a dancer.       我不擅长跳舞。  
+600. I'm not much of a public speaker.       我不擅长当众演讲。  
+
+===============================================================
+
+"You'll get used to..." (你会习惯...) 
+601. You'll get used to it.       你会习惯的。  
+602. You'll get used to everything soon.       你很快就会习惯这一切。  
+603. You'll get used to the cold weather.       你会习惯寒冷的天气。  
+604. You'll get used to the noise.       你会习惯吵闹声的。  
+605. You'll get used to living here.       你会习惯住在这里的。  
+606. You'll get used to your new job.       你会习惯新工作的。  
+607. You'll get used to the culture.       你会习惯这种文化的。  
+608. You'll get used to his temper.       你会习惯他的脾气的。  
+609. You'll get used to your new boss.       你会习惯新老板的。  
+610. You'll get used to the new environment.       你会习惯新环境的。  
+
+"You'll never guess..." (你绝对猜不到...) 
+611. You'll never guess what happened.       你绝对猜不到发生了什么。  
+612. You'll never guess what it is.       你绝对猜不到这是什么。  
+613. You'll never guess what I got for you.       你绝对猜不到我给你买了什么。  
+614. You'll never guess who I met in the street.       你绝对猜不到我在街上遇到了谁。  
+615. You'll never guess how I got here.       你绝对猜不到我是怎么来这里的。  
+616. You'll never guess what she told me.       你绝对猜不到他对我说了什么。  
+617. You'll never guess what I heard.       你绝对猜不到我听到了什么。  
+618. You'll never guess who did it.       你绝对猜不到是谁做的。  
+619. You'll never guess how they got in.       你绝对猜不到他们是怎么进去的。  
+620. You'll never guess what I learned here.       你绝对猜不到我在这里学到了什么。  
+
+"You make me..." (你让      我...) 
+621. You make me mad.       你让我抓狂着迷。  
+622. You make me so happy.       你让我如此幸福。  
+623. You make me so angry.       你让我如此生气。  
+624. You make me anxious.       你让我不安。  
+625. You make me sick.       你让我恶心。  
+626. You make me quite sad.       你让我很难过。  
+627. You make me laugh.       你让我笑了。  
+628. You make me amazed.       你让我很惊讶。  
+629. You make me scared.       你让我很害怕。  
+630. You make me relaxed.       你让我很轻松。  
+
+"Are you done with...?" (你做完...了吗？) 
+631. Are you done with your homework?       你做完作业了吗？  
+632. Are you done with your exercise?       你运动完了吗？  
+633. Are you done with your meal?       你吃完饭了吗？  
+634. Are you done with your class?       你上完课了吗？  
+635. Are you done with your meeting?       你开完会了吗？  
+636. Are you done with your call?       你打完电话了吗？  
+637. Are you done with your shower?       你洗完澡了吗？  
+638. Are you done with your makeup?       你化完妆了吗？  
+639. Are you done with your haircut?       你剪完头发了吗？  
+640. Are you done with the laundry?       你洗完衣服了吗？  
+
+"Could you please...?" (你能...吗？) 
+641. Could you please help me?       你能帮帮我吗？  
+642. Could you please speak more slowly?       你能说慢一点吗？  
+643. Could you please be quiet?       你能安静点吗？  
+644. Could you please do the dishes?       你能洗一下碗吗？  
+645. Could you please tell me where the library is?       你能告诉我图书馆在哪吗？  
+646. Could you please teach me English?       你能教我英语吗？  
+647. Could you please leave me alone?       能让我自己待会吗？  
+648. Could you please tell me where you bought it?       你能告诉我在哪里买的它吗？  
+649. Could you please put some sugar in my cup?       你能在我的杯子里放点糖吗？  
+650. Could you please cut up the tomatoes?       你能切一下西红柿吗？  
+
+"Who wants...?" (谁想...？) 
+651. Who wants coffee?       谁想喝咖啡？  
+652. Who wants ice cream?        谁想吃冰激凌？  
+653. Who wants to go for a ride?        谁想去兜风？  
+654. Who wants to play cards?        谁想打扑克？  
+655. Who wants to give it a try?        谁想试一试？  
+656. Who wants to stay here?        谁还想待在这里？  
+657. Who wants to study English?        谁想学习英语？  
+658. Who wants to play soccer?        谁想踢足球？  
+659. Who wants to go to the gym?        谁想去健身房？  
+660. Who wants to work there?        谁想去那里工作？  
+
+"What is your favorite...?" (你最喜欢...？) 
+661. What is your favorite food?       你最喜欢什么食物？  
+662. What is your favorite subject?       你最喜欢什么科目？  
+663. What is your favorite movie?       你最喜欢的电影是什么？  
+664. Who is your favorite writer?       你最喜欢的作家是谁？  
+665. Who is your favorite singer?       你最喜欢的歌手是谁？  
+666. What is your favorite fruit?       你最喜欢的水果是什么？  
+667. What is your favorite animal?       你最喜欢的动物是什么？  
+668. What is your favorite game?       你最喜欢的游戏是什么？  
+669. Who is your favorite dancer?       你最喜欢的舞者是谁？  
+670. Who is your favorite person?       你最喜欢的人是谁？  
+
+"What is the best way to...?" (去...怎么走最方便/...的最好方法是什么？) 
+671. What is the best way to get to the airport?         去机场怎么走最方便？  
+672. What is the best way to go downtown?          去市中心怎么走最方便？  
+673. What is the best way to kill time?          打发时间的最好方法是什么？  
+674. What is the best way to get there?          怎么去那里最快？  
+675. What is the best way to learn a language?          学习一门语言最快的方式是什么？  
+676. What is the best solution?          最好的解决方案是什么？  
+677. What is the best way to solve his problems?          解决他的困难最好的方法是什么？  
+678. What is the best way to lose weight?          减肥的最好方法是什么？  
+679. What is the best way to make money?          赚钱最好的途径是什么？  
+680. What is the best way to master Japanese?          掌握日语的最佳方式是什么？  
+
+"What do you think of...?" (你觉得...怎么样？) 
+681. What do you think of this song?       你觉得这首歌怎么样？  
+682. What do you think of my new dress?       你觉得我的新裙子怎么样？  
+683. What do you think of the decision?       你觉得这个决定怎么样？  
+684. What do you think of John's boyfriend?       你觉得John的男朋友怎么样？  
+685. What do you think of Peking duck?       你觉得北京烤鸭怎么样？  
+686. What do you think of his new haircut?       你觉得他的新发型怎么样？  
+687. What do you think of the USA?       你觉得美国怎么样？  
+688. What do you think of my new mouse?       你觉得我的新鼠标怎么样？  
+689. What do you think of those guys?       你觉得那些小伙子怎么样？  
+690. What do you think of the trip to Beijing?       你觉得北京之行怎么样？  
+
+"What makes you...?" (是什么让      你...？) 
+691. What makes you so sad?        是什么让你如此伤心？  
+692. What makes you so happy?        是什么让你如此开心？  
+693. What makes you so sure?        是什么让你如此确定？  
+694. What makes you think so?        是什么让你这么想？  
+695. What makes you say that?        是什么让你那样说呢？  
+696. What makes you so scared?        是什么让你如此害怕？  
+697. What makes you so excited?        是什么让你如此兴奋？  
+698. What makes you think I'm kidding?        是什么让你认为我在开玩笑？  
+699. What makes you think I'm crazy?        是什么让你认为我疯了？  
+700. What makes you think I'm lazy?        是什么让你认为我懒？  
+
+=========================================================================
+
+
+"What time...?" (什么时候...?) 
+701. What time is it?        几点了？  
+702. What time will he arrive?        他什么时候到？  
+703. What time does the bank open?        银行什么时候开门？  
+704. What time do you close your store?       你的店什么时候关门？  
+705. What time did you get up this morning?       你今天早上几点起床的？  
+706. What time do you serve dinner?       你们什么时候提供晚饭？  
+707. What time do you get off work?       你什么时候下班？  
+708. What time are we setting off tomorrow?       我们明天什么时候出发？  
+709. What time did you get home last night?       你昨晚什么时候到家的？  
+710. What time did you get married?       你什么时候结婚的？  
+
+"What a...!" (真...啊！) 
+711. What a good idea!        真是个好主意！  
+712. What a beautiful day!        多美好的一天！
+713. What a coincidence!        真巧！  
+714. What a sweet smell!        真香！  
+715. What a big dog!        这只狗真大！  
+716. What a mess!        真乱呐！  
+717. What a huge cake!        这蛋糕可真大！  
+718. What a comfortable seat!        真舒服的座椅！  
+719. What a pity!        太遗憾了！  
+720. What an interesting story!        这故事真有趣！  
+
+"What if...?" (要是...怎么办？) 
+721. What if it rains?        要是下雨了怎么办？  
+722. What if my parents find out?        要是我父母发现怎么办？  
+723. What if we missed the train?        要是我们错过了火车怎么办？  
+724. What if he doesn't come?        要是他不来怎么办？  
+725. What if she doesn't agree?        要是他不同意怎么办？  
+726. What if the plane is delayed?        要是飞机晚点了怎么办？  
+727. What if I forget the password?         要是我忘记密码了怎么办？  
+728. What if somebody sees me?        要是有人看见我了怎么办？  
+729. What if my phone is dead?        要是手机没电了怎么办？  
+730. What if I get lost?         要是我迷路了怎么办？  
+
+"What happened to...?" (...怎么了？) 
+731. What happened to you?       你怎么了？  
+732. What happened to your face?       你的脸怎么了？  
+733. What happened to your father?        他的爸爸怎么了？  
+734. What happened to your computer?       你的电脑怎么了？  
+735. What happened to your school?       你的学校怎么了？  
+736. What happened to the fireman?        那个消防员怎么了？  
+737. What happened to those people?        那些人怎么了？  
+738. What happened to your head?       你的头怎么了？  
+739. What happened to the vase?        这个花瓶怎么了？  
+740. What happened to Laura?        劳拉怎么了？  
+
+"Whatever happens..." (不管发生什么...) 
+741. Whatever happens, I'll be here.        不管发生什么，我都会在这里。  
+742. Whatever happens, I'll get it done.        不管发生什么，我都会把它做完。  
+743. Whatever happens, I believe you.        不管发生什么，我都相信你。  
+744. Whatever happens, I'm on your side.        不管发生什么，我都站在你这边。  
+745. Whatever happens, don't lose your heart.        不管发生什么，都不要丧失信心。  
+746. Whatever happens, we will move on.        不管发生什么，我们都要向前走。  
+747. Whatever happens, I will never give up.        不管发生什么，我都不会放弃。  
+748. Whatever happens, we must finish the plan.        不管发生什么，我们都必须完成计划。  
+749. Whatever happens, we must sign the contract.        不管发生什么，我们都必须签订这份合同。  
+750. Whatever happens, they will win the game.        不管发生什么，他们都会赢得比赛。  
+
+"When is...?" (什么时候是...？) 
+751. When is your birthday?       你的生日是什么时候？  
+752. When is the housewarming party?        乔迁聚会是什么时候？  
+753. When is the due date?        截止日期是什么时候？  
+754. When is the wedding ceremony?        结婚典礼是什么时候？  
+755. When is the best time to visit Australia?        什么时候去澳大利亚旅游最好？  
+756. When is your next appointment?       你下一次预约的时间是什么时候？  
+757. When is China's National Day?        中国的国庆节是什么时候？  
+758. When is the opening ceremony of your company?       你公司的开业仪式是什么时候？  
+759. When is the Chinese Spring Festival?        中国的春节在什么时候？  
+760. When is the Lantern Festival?        元宵节在什么时候？  
+
+"How was...?" (...怎么样？) 
+761. How was your day?       你今天过得怎么样？  
+762. How was your blind date?        相亲进行的怎么样？  
+763. How was your trip?        旅行怎么样？  
+764. How was your dinner?        晚餐怎么样？  
+765. How was your night?        昨晚睡得怎么样？  
+766. How was your weekend?       你周末过得还好吗？  
+767. How was your party?       你的聚会怎么样呀？  
+768. How was your vacation?       你假期过得还好吗？  
+769. How was your exam?       你考试怎么样？  
+770. How was your interview?       你的面试怎么样？  
+
+"How soon...?" (多久以后...？) 
+771. How soon will you get here?        多久以后你能到这里？  
+772. How soon will you finish it?       你多久能完成它？  
+773. How soon will you go back to your hometown?        多久以后你才回老家？  
+774. How soon will the baby be hungry?        多久以后孩子会饿？  
+775. How soon will he come back?        多久以后他才会回来？  
+776. How soon will we reach the waterfall?        到底多久我们才能到达瀑布？  
+777. How soon will Anne finish her homework?        多久后安才能完成她的作业？  
+778. How soon will the boy get the food?        多久后这个男孩能拿到食物？  
+779. How soon will you clean the house?        多久后你能打扫屋子？  
+780. How soon will you find him?        多久后你能找到他？  
+
+"How long does it take to...?" (需要多长时间...？) 
+781. How long does it take by car?        坐车需要多长时间？  
+782. How long does it take to get to Seoul?        抵达首尔需要多长时间？  
+783. How long does it take to get there?        到那里要多长时间？  
+784. How long does it take to get to the airport?        去机场要花多长时间？  
+785. How long does it take to get the results?        要多长时间才能取得结果？  
+786. How long does it take to leave here?        离开这里需要花费多长时间？  
+787. How long does it take to deliver?        送货需要多长时间？  
+788. How long does it take to fly back?        飞回去需要多长时间？  
+789. How long does it take to fly to Shanghai?        坐飞机回到上海需要多长时间？  
+790. How long does it take to get downtown?        到市中心需要多长时间？  
+
+"How often...?" (多久...一次？) 
+791. How often do you eat outside?       你多久外出就餐一次？  
+792. How often do you clean your house?       你多久打扫一次房子？  
+793. How often do you see your parents?       你多久见一次父母？  
+794. How often do you change your hairstyle?       你多久换一次发型？  
+795. How often do you see a movie?       你多久看一次电影？  
+796. How often do you wash your hair?       你多久洗一次头发？  
+797. How often do you go shopping?       你多久去购一次物？  
+798. How often do you brush your teeth?       你多久刷一次牙？  
+799. How often do you exercise?       你多久锻炼一次？  
+800. How often do you take a shower?       你多久洗一次澡？  
+
+==========================================================================
+"How far...?" (有多远...?) 
+801. How far is it? 他有多远？  
+802. How far is it to the airport? 到机场有多远？  
+803. How far is the subway station from here? 从这里到地铁站有多远？  
+804. How far can you throw it?       你能扔多远？  
+805. How far do we have to go?       我们还得走多远？  
+806. How far is Shanghai from here? 从这儿到上海有多远？  
+807. How far can wolves travel? 狼能走多远？  
+808. How far is A from B? 从A地到B地有多远？  
+809. How far is your school from your home?       你的学校离家有多远？  
+810. How far can you run?       你能跑多远？  
+
+"How big/heavy/old...?" (多大/多重/多老...?) 
+811. How big is it? 它有多大？  
+812. How heavy is the box? 箱子有多重？  
+813. How old are you?       你多大了？  
+814. How old is your sister?       你妹妹多大了？  
+815. How long is the river? 这条河多长？  
+816. How old is the man? 这个男人有多大了？  
+817. How long is the tunnel? 这条隧道有多长？  
+818. How strong is the wind? 风有多大？  
+819. How spicy is the food? 这食物有多辣？  
+820. How serious is the injury? 伤有多严重？  
+
+"How come...?" (怎么会...?) 
+821. How come this happened? 这怎么会发生呢？  
+822. How come you're so late?       你怎么这么晚才到？  
+823. How come she's not here yet? 他怎么还不到这里呢？  
+824. How come you didn't tell me earlier?       你怎么不早点告诉我？  
+825. How come she got promoted before you?        他怎么比你先升职呢？  
+826. How come you look so tired?       你怎么会看起来如此疲惫？  
+827. How come the floor is so wet?        地板怎么会这么湿呢？  
+828. How come you never believe me?       你怎么就从来都不相信      我呢？  
+829. How come you make him so angry?       你怎么就让他如此生气呢？  
+830. How come she left without saying goodbye?        他怎么不道个别就离开了？  
+
+"It's time to..." (该...了) 
+831. It's time to say goodbye.        该说再见了。  
+832. It's time to wrap up.        该做个总结了。  
+833. It's time to get up.        该起床了。  
+834. It's time for bed.        该睡觉了。  
+835. It's time for you to go home.       你该回家了。  
+836. It's time to go.        该走了。  
+837. It's time to have a break.        该休息一下了。  
+838. It's time for class.        该上课了。  
+839. It's time for lunch.        该吃午饭了。  
+840. It's time for work.        该工作了。  
+
+"It's been a while since..." (自从...已经有一段时间了) 
+841. It's been a while since I last saw you.        自从上次见到你，已经有一段时间了。  
+842. It's been a while since we last met.        自从我们上次遇见，有一段时间了。  
+843. It's been a while since I came back from America.       我从美国回来，已经有一段时间了。  
+844. It's been a while since I worked here.       我在这里上班，已经有一段时间了。  
+845. It's been a while since we last talked.        自从我们上次聊天儿有一段时间了。  
+846. It's been a while since we got married.       我们结婚有一段时间了。  
+847. It's been a while since he lost the job.        他失业有一段时间了。  
+848. It's been a while since we broke up.       我们分手有一段时间了。  
+849. It's been a while since he left here.        他离开这儿有一段时间了。  
+850. It's been a while since the school started.        开学已经有一段时间了。  
+
+"No wonder..." (难怪...) 
+851. No wonder. 难怪呢。  
+852. No wonder he failed.        难怪他失败了。  
+853. No wonder she got angry.        难怪他生气了。  
+854. No wonder you didn't reply to me. 难怪你不回复我。  
+855. No wonder he didn't come.        难怪他没来。  
+856. No wonder they don't get along.        难怪他们合不来。  
+857. No wonder you're so fond of it.        难怪你这么喜欢他。  
+858. No wonder most of them are students.        难怪他们大部分是学生。  
+859. No wonder it tastes so good.        难怪这食物这么好吃。  
+860. No wonder he knows so much about it.        难怪他了解的那么多。  
+
+"There's no use..." (...没用) 
+861. There's no use getting angry.        生气没用。  
+862. There's no use begging and pleading.        哀求没有用。  
+863. There's no use regretting what you did.        后悔做过的事情没用。  
+864. There's no use complaining.        抱怨没有用。  
+865. There's no use arguing with him.        和他吵架没用。  
+866. There's no use shouting here.        在这里喊叫没有用。  
+867. There's no use hiding from me.        躲着我也没用。  
+868. There's no use trying to change his mind.        试图改变他的想法没用。  
+869. There's no use asking him for help.        请求他帮助没用。  
+870. There's no use persuading him.        说服他没用。  
+
+"It takes..." (需要...时间/人力) 
+871. It takes one hour to get there.        到那里要一个小时。  
+872. It takes about ten minutes on foot.        步行要10分钟左右。  
+873. It takes two days to get out of here.        离开这儿要两天。  
+874. It takes about three hours to get there by car.        坐车去那儿要3个小时左右。  
+875. It takes two people to move the desk.        这得要两个人才能挪得动这张桌子。  
+876. It takes a half an hour to do the work.        需要半小时做这项工作。  
+877. It takes twenty minutes to get to work by subway.        坐地铁去上班需要20分钟。  
+878. It takes eight men to move the statue.        搬这座雕像需要8个人。  
+879. It takes ten trucks to move a house.        搬家需要10辆卡车。  
+880. It takes a half a year to finish the paper.        完成论文需要半年的时间。  
+
+"It's getting..." (逐渐变得...) 
+881. It's getting better.        逐渐好转。  
+882. It's getting worse.        逐渐恶化。  
+883. It's getting colder day by day.        一天比一天冷。  
+884. It's getting late.        时间不早了。  
+885. It's getting dark.        天渐渐黑了。  
+886. It's getting more and more expensive.        它越来越贵了。  
+887. It's getting harder and harder to live without a car.        没有车的生活真是越来越难了。  
+888. It's getting cleaner.        它越来越干净了。  
+889. It's getting closer.        它离得越来越近了。  
+890. It's getting harder to keep a secret.        保守秘密变得越来越难了。  
+
+"There's no need to..." (没必要...) 
+891. There's no need to hurry.        没必要着急。  
+892. There's no need to worry.        没必要担心。  
+893. There's no need to panic.        没必要惊慌。  
+894. There's no need to apologize.        没必要道歉。  
+895. There's no need to be perfect.        没必要做到完美。  
+896. There's no need to compare yourself to others.        没必要去跟别人比。  
+897. There's no need to be afraid of him.        没有必要要害怕他。  
+898. There's no need to be so angry.        没必要如此生气。  
+899. There's no need to be pessimistic about the future.        没必要对未来如此悲观。  
+900. There's no need to be anxious every day.        没必要每天都不安。  
+
+"There's no doubt that..." (毫无疑问...) 
+901. There's no doubt about that.        这一点毫无疑问。  
+902. There's no doubt he will show up.        毫无疑问他会出现。  
+903. There's no doubt we can get out of here.        毫无疑问我们能离开这儿。  
+904. There's no doubt that he's a good man.        毫无疑问他是个好人。  
+905. There's no doubt that she's the smartest in the class.        毫无疑问她是班里最聪明的人。  
+906. There's no doubt that we will succeed.         毫无疑问我们会成功的。  
+907. There's no doubt that you're talented.        毫无疑问你很有才华。  
+908. There's no doubt that dogs are man's best friends.        毫无疑问狗狗是人类最好的朋友。  
+909. There's no doubt that winter is the coldest season of the year.        毫无疑问冬天是一年中最冷的季节。  
+910. There's no doubt that the town will develop into a modern city in the future.        毫无疑问这个小镇将来会发展成为一个现代化城市。  
+
+"Here's what..." (这就是...) 
+911. Here's what I'm looking for.        这就是我要找的。  
+912. Here's what you need to do.        这就是你需要做的。  
+913. Here's what you want.        这就是你想要的。  
+914. Here's what I call a good novel.        这就是我说的优秀小说。  
+915. Here's what I think.       我是这样想的。  
+916. Here's what I learned from you.        这就是我从你身上学到的东西。  
+917. Here's what I expect from you.        这就是我对你的期望。  
+918. Here's what you should know about the country.        这些就是关于这个国家你应该知道的。  
+919. Here's what happened after I got off work.        这就是我下班后发生的事儿。  
+920. Here's what the teacher said in class.        这就是老师课堂上讲的话。  
+
+"This is where..." (这就是...的地方) 
+921. This is where I want to go.        这就是我想去的地方。  
+922. This is where I last saw him.        这就是我最后一次见到他的地方。  
+923. This is where the accident happened.        这就是事故发生的地方。  
+924. This is where his father works.        这就是他父亲工作的地方。  
+925. This is where you're wrong.         这就是你不对的地方。  
+926. This is where the problem lies.         这就是问题所在。  
+927. This is where I was born.         这儿是我出生的地方。  
+928. This is where I grew up.          这里就是我长大的地方。  
+929. This is where we met each other.         这儿是我们遇见彼此的地方。  
+930. This is where we live.         这就是我们生活的地方。  
+
+"This is how..." (这就是...的方式) 
+931. This is how I got here.         这就是我到这里的方式。  
+932. This is how I spent my weekends.         这就是我度过周末的方式。  
+933. This is how you make a cake.         这就是你做蛋糕的方式。  
+934. This is how a computer works.         这就是电脑运行的方式。  
+935. This is how he learns English.         这就是他学英语的方式。  
+936. This is how the house is built.         这就是建造房子的方式。  
+937. This is how I cook.         这就是我做饭的方式。  
+938. This is how she sells her products.         这就是她卖产品的方式。  
+939. This is how he runs his business.         这就是她经营公司的方式。  
+940. This is how the fire is put out.         这就是灭火的方式。  
+
+"All I need is..." (我只需要...) 
+941. All I need is a little rest.       我只想休息一会儿。  
+942. All I need is more time.       我只想要多点时间。  
+943. All I need is five minutes.       我只想要5分钟。  
+944. All I need is ten dollars.       我只想要10美元。  
+945. All I need is you.       我只需要你。  
+946. All I need is a phone.       我只想要一部手机。  
+947. All I need is a call.       我只需要打一个电话。  
+948. All I need is a car.       我只需要一辆车。  
+949. All I need is an opportunity.       我只需要一次机会。  
+950. All I need is a person I can talk to.       我只需要一个可以交谈的人。  
+
+"All I can do is..." (我能做的就是...) 
+951. All I can do is try my best.       我能做的不过就是尽我所能。  
+952. All I can do is offer you some advice.       我能做的就是给你一些建议。  
+953. All I can do is to follow the rules.       我能做的就是遵守规则。  
+954. All I can do is share my ways.       我能做的就是分享我的方法。  
+955. All I can do is set a meeting for you.       我能做的就是给你们安排一个会议。  
+956. All I can do is wait.       我能做的就是等待。  
+957. All I can do is abandon this plan.       我能做的就是放弃这个计划。  
+958. All I can do is keep working.       我能做的就是继续工作。  
+959. All I can do is keep quiet.       我能做的就是保持安静。  
+960. All I can do is move on.       我能做的就是继续前进。  
+
+"The last thing I want to do is..." (我最不愿意做的事就是...) 
+961. The last thing I want to do is to hurt you.       我最不愿意做的事就是伤害你。  
+962. The last thing I want to do is to make you angry.       我最不愿意做的事就是让你生气。  
+963. The last thing I want to do is to let you go.       我最不愿意做的事就是让      你走。  
+964. The last thing I want to do is to leave here.       我最不愿意做的事就是离开这儿。  
+965. The last thing I want to do is to quit.       我最不愿意做的事就是退出。  
+966. The last thing I want to do is to disappoint my parents.       我最不愿意做的事就是让我父母失望。  
+967. The last thing I want to do is to lie to you.       我最不愿意做的事就是对你撒谎。  
+968. The last thing I want to do is to argue with you.       我最不愿意做的事就是和你吵架。  
+969. The last thing I want to do is to talk to strangers.       我最不愿意做的事儿就是和陌生人说话。  
+970. The last thing I want to do is to make a speech in public.       我最不愿意做的就是在公众面前演讲。  
+
+"Feel free to..." (随时可以...) 
+971. Feel free to call me.         随时都可以给我打电话。  
+972. Feel free to contact me.         可以随时联系我。  
+973. Feel free to ask questions.         随时提问。  
+974. Feel free to tell me what you need.         随时告诉我你需要的东西。  
+975. Feel free to share your opinions.         随时可以分享你的观点。  
+976. Feel free to text me.         随时给我发信息。  
+977. Feel free to visit here.         随时来这坐坐。  
+978. Feel free to share your feelings.         随时分享你的感受。  
+979. Feel free to stop.         随时可以停。  
+980. Feel free to interrupt.         随时可以打断。  
+
+"If I were you..." (我要是      你...) 
+981. If I were you, I would apologize to her.       我要是你，就跟她道歉。  
+982. If I were you, I would accept the invitation.       我要是你，就接受邀请。  
+983. If I were you, I wouldn't go there.       我要是你，就不去那儿。  
+984. If I were you, I wouldn't do that.       我要是你，就不会那么做。  
+985. If I were you, I wouldn't give up.       我要是你，就不会放弃。  
+986. If I were you, I would stay away from her.       我要是你，我就会离她远一些。  
+987. If I were you, I would start looking for another job.       我要是你，我就会开始另找工作。  
+988. If I were you, I wouldn't trouble him so much.       我要是你，我不会这么麻烦他的。  
+989. If I were you, I wouldn't accept her suggestion.       我要是你，我就不接受他的建议。  
+990. If I were you, I wouldn't stay up all night.       我要是你，我是不会通宵熬夜的。  
+
+
+

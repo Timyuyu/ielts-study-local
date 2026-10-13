@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.next/
+.vinext/
+.wrangler/
+.reasonix/
+.env
+.env.*
+*.log
+*.tsbuildinfo
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
